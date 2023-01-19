@@ -1,4 +1,4 @@
-![logo]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif](https://www.troweprice.com/content/dam/retirement-plan-services/images/insights/savings-insights/rp/banner-0418.gif))
+![logo](https://i0.wp.com/i.giphy.com/media/Mc1C4TPCmof39bCFnI/giphy-downsized.gif?w=770&ssl=1)
 # Whycodex
 # 💫 About Me:
 As a pre-final year computer science student with solid experience in data structures and algorithms, as well as proficiency in front-end development using React Native, I am passionate about solving complex problems and constantly strive to improve my technical skills. My proficiency in React and React Native enables me to create dynamic and engaging user interfaces, while my solid foundation in data structures and algorithms allows me to approach problem-solving in an efficient and effective manner. I am always eager to take on new challenges and am excited to continue honing my skills in the field of computer science.<br><br><br><br>
