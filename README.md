@@ -1,4 +1,4 @@
-![logo](https://i0.wp.com/i.giphy.com/media/Mc1C4TPCmof39bCFnI/giphy-downsized.gif?w=770&ssl=1)
+![logo](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
 # Whycodex
 # 💫 About Me:
 As a pre-final year computer science student with solid experience in data structures and algorithms, as well as proficiency in front-end development using React Native, I am passionate about solving complex problems and constantly strive to improve my technical skills. My proficiency in React and React Native enables me to create dynamic and engaging user interfaces, while my solid foundation in data structures and algorithms allows me to approach problem-solving in an efficient and effective manner. I am always eager to take on new challenges and am excited to continue honing my skills in the field of computer science.<br><br><br><br>
