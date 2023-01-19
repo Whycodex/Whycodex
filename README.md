@@ -1,7 +1,7 @@
 ![logo](https://i.ytimg.com/vi/_huo7KMp2Ww/maxresdefault.jpg)
 <img align="right" src="https://cutewallpaper.org/cdn-cgi/mirage/dd19f2d06ebc24f541f142b37b4289ffa7de722a7607e39984c5c6dd4ce8defd/1280/24/animated-computer-gif/gif-computer-ciencia-personal-animated-gif-on-gifer.gif">
 # Whycodex
-# 💫 Hey It's Neeraj Gupta Here:
+# 💫 Hey It's Neeraj Gupta:
 As a pre-final year computer science student with solid experience in data structures and algorithms, as well as proficiency in front-end development using React Native, I am passionate about solving complex problems and constantly strive to improve my technical skills. My proficiency in React and React Native enables me to create dynamic and engaging user interfaces, while my solid foundation in data structures and algorithms allows me to approach problem-solving in an efficient and effective manner. I am always eager to take on new challenges and am excited to continue honing my skills in the field of computer science.<br><br><br><br>
 ## 🌐 Socials:
 <a href="https://twitter.com/neeraj12300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neeraj12300" height="30" width="40" /></a>
